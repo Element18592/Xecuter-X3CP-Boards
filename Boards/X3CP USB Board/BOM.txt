@@ -1,0 +1,4 @@
+The board was designed to work with two different style USB ports
+J1 - 62900416021 or USB-A1HSW6
+J2 - 62900416021 or USB-A1HSW6
+J3 - 1-1734261-0

@@ -1,0 +1,28 @@
+Q1 - MMBT3906 
+
+R1-R4 10kohm resistor array
+
+R5 - 220ohm 0603
+
+R6 - 10kohm 0603
+
+SW1 - PS-002 https://www.aliexpress.us/item/3256803815394467.html
+SW2 - PS-002 https://www.aliexpress.us/item/3256803815394467.html
+SW3 - PS-002 https://www.aliexpress.us/item/3256803815394467.html
+SW4 - PS-002 https://www.aliexpress.us/item/3256803815394467.html
+
+D1 - Green 3mm
+D2 - Red 3mm
+D3 - Blue 0603
+D4 - Blue 0603
+D5 - Blue 0603
+D6 - Blue 0603
+D7 - XZMDKVG88W
+D8 - Blue 0603
+D9 - Non existent
+D10 - XZMDKVG88W
+D11 - Blue 0603
+D12 - Blue 0603
+D13 - Blue 0603
+
+J1 - BM10B-SRSS-TB(LF)(SN) but these should also be compatible 665310124022 or 10147605-00010LF
