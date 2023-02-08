@@ -1,6 +1,7 @@
 # Xecuter X3CP Boards
 
 <img src="/images/panel.jpg">
+Photo credit: N163LPH03N1X
 
 ## Description
 
