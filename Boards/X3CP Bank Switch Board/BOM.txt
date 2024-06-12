@@ -1,4 +1,4 @@
-Q1 - MMBT3906 
+Q1 - MMBT3904 
 
 R1-R4 10kohm resistor array
 
@@ -20,7 +20,7 @@ D6 - Blue 0603
 D7 - XZMDKVG88W
 D8 - Blue 0603
 D9 - Non existent
-D10 - XZMDKVG88W
+D10 - LTST-S326KGJRKT
 D11 - Blue 0603
 D12 - Blue 0603
 D13 - Blue 0603
